@@ -58,7 +58,7 @@ ffmpeg -version
 1. Clone the repository:
 ```bash
 git clone https://github.com/mohammadentezari2001/youtube-downloader-cli.git
-cd youtube-downloader-cli
+cd youtube_downloader
 ```
 
 2. Install Python dependencies:
